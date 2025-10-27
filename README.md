@@ -1,6 +1,6 @@
 # Payments Microservice
 
-Este es el microservicio de pagos para el sistema "Order & Payment System". Simula el procesamiento de pagos y almacena el historial de transacciones.
+Este es el microservicio de pagos para el sistema "Order & Payment System". Simula el procesamiento de pagos y almacena el historial de transacciones realizadas en el sistema
 
 ## Características
 
